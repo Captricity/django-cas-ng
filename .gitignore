@@ -19,3 +19,6 @@ _build/
 .tox
 .cache/
 .coverage
+
+# Virtualenv
+venv3
